@@ -1,0 +1,15 @@
+/* Your styles goes here. */
+.parent {
+  container-type: inline-size;
+  background: red;
+  width: 50%;
+  height: 200px;
+}
+  
+@container (min-width: 400px) {
+  .child {
+      background: blue;
+      width: 50%;
+      height: 100px;
+  }
+}
