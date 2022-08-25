@@ -42,3 +42,7 @@ $ nx serve app
 
 - [https://developer.chrome.com/docs/devtools/css/container-queries/](https://developer.chrome.com/docs/devtools/css/container-queries/)
 - [https://ishadeed.com/article/say-hello-to-css-container-queries/](https://ishadeed.com/article/say-hello-to-css-container-queries/)
+
+## Articles
+
+[LinkedIn](https://www.linkedin.com/pulse/end-css-media-queries-kevin-justal/?published=t&trackingId=ZvMBWTLYSRiGJBTAp2Tcug%3D%3D)
