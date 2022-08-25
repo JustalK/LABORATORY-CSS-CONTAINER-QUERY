@@ -1,15 +1,45 @@
 /* Your styles goes here. */
-.parent {
+.elements {
   container-type: inline-size;
-  background: red;
-  width: 50%;
-  height: 200px;
+}
+
+.top {
+  background: #eec6c2;
+  width: 100%;
+  height: 500px;
+  border-radius: 20px;
+}
+
+.words,
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  margin: 20px 0 0 0;
+  padding: 0;
+}
+
+.word,
+.tag {
+  height: 25px;
+  background: #737373;
+  margin-right: 5px;
+  margin-top: 10px;
+}
+
+.word {
+  height: 5px;
+  margin-right: 2px;
+  background: #ddd8d7;
 }
   
-@container (min-width: 400px) {
-  .child {
-      background: blue;
-      width: 50%;
-      height: 100px;
+@container (max-width: 800px) {
+  .page {
+    display: flex;
+  }
+
+  .bottom {
+    max-width: 50%;
+    margin-left: 20px;
   }
 }

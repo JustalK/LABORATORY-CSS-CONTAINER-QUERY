@@ -1,0 +1,21 @@
+/* Your styles goes here. */
+.component1 {
+  container-type: inline-size;
+  width: 100%;
+  height: 100px;
+  margin-top: 20px;
+  background: #eec6c2;
+}
+
+.component1_child {
+  width: 100%;
+  height: 100%;
+  background: red;
+}
+  
+@container (min-width: 300px) {
+  .component1_child {
+    width: 50%;
+    background: blue;
+  }
+}
