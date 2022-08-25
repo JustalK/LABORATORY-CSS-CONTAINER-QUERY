@@ -6,6 +6,15 @@ This laboratory is a react project where I am testing how to use the CSS Contain
 
 With container queries, you’ll be able to define a component’s full range of styles in a very precise and predictable way. Perhaps you want to increase or decrease padding, change font sizes, add or remove background images, or completely change the display property and orientation of child elements. This is what CSS Container Queries is about and what everyone is so excited about it!
 
+## Plan of the presentation
+
+I explain with all the details how I build the project and my way of working.
+
+- [How to use](#how-to-use)
+- [Running](#running)
+- [Links](#links)
+- [Articles](#articles)
+
 ## How to use
 
 **CSS container queries is an experimental feature. To enable its support in DevTools, under chrome://flags, set the Enable CSS Container Queries experiment to Enabled.
