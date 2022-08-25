@@ -54,4 +54,4 @@ $ nx serve app
 
 ## Articles
 
-[LinkedIn](https://www.linkedin.com/pulse/end-css-media-queries-kevin-justal/?published=t&trackingId=ZvMBWTLYSRiGJBTAp2Tcug%3D%3D)
+[LinkedIn](https://www.linkedin.com/pulse/end-css-media-queries-kevin-justal)
